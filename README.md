@@ -24,8 +24,11 @@ However, there's two solder jumpers to connect the SMBus of the Xbox to the Pi P
 
 # License
 
+GNU GENERAL PUBLIC LICENSE
+Version 3, 29 June 2007
+
 You can sell this board as-is, but disclose the source.
-If you sell modifications of this board (additional headers for LED strips / LCD / fan), share the modifications under the same license.
+If you sell modifications of this board (additional headers for LED strips / LCD / fan), share the modifications / source files under the same license.
 
 # More info
 
