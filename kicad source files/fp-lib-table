@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "xbox_lpc")(type "KiCad")(uri "${KIPRJMOD}/libraries/xbox_lpc.pretty")(options "")(descr ""))
+  (lib (name "MCU_RaspberryPi_and_Boards")(type "KiCad")(uri "${KIPRJMOD}/libraries/KiCad-RP-Pico-main/RP-Pico Libraries/MCU_RaspberryPi_and_Boards.pretty")(options "")(descr ""))
+  (lib (name "Resistors_Universal")(type "KiCad")(uri "${KIPRJMOD}/libraries/Resistors_Universal.pretty")(options "")(descr ""))
+)

@@ -1,4 +1,4 @@
-23741809085238586
+23765944804334955
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -64651,6 +64651,27 @@ Yellow 5381 Series LED
 0
 2
 2
+MCU_RaspberryPi_and_Boards
+Crystal_SMD_HC49-US
+SMD Crystal HC-49-SD http://cdn-reichelt.de/documents/datenblatt/B400/xxx-HC49-SMD.pdf, 11.4x4.7mm^2 package
+SMD SMT crystal
+0
+2
+2
+MCU_RaspberryPi_and_Boards
+RP2040-QFN-56
+QFN, 56 Pin (http://www.cypress.com/file/416486/download#page=40), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+QFN DFN_QFN
+0
+70
+57
+MCU_RaspberryPi_and_Boards
+RPi_Pico_SMD_TH
+Through hole straight pin header, 2x20, 2.54mm pitch, double rows
+Through hole pin header THT 2x20 2.54mm double row
+0
+86
+43
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -88745,6 +88766,76 @@ Resistor Radial_Power series Radial pin pitch 7.37mm 10W length 16.1mm width 9mm
 0
 2
 2
+Resistors_Universal
+Resistor_SMD+THTuniversal_0805to1206_RM10_HandSoldering
+Resistor, SMD and THT, universal, 0805 to 1206,RM10,  Hand soldering,
+Resistor, SMD and THT, universal, 0805 to 1206, RM10, Hand soldering,
+0
+4
+2
+Resistors_Universal
+Resistor_SMD+THTuniversal_0805to1206_RM10_HandSoldering_RevA_Date25Jun2010
+Resistor, SMD and THT, universal, 0805 to 1206,RM10,  Hand soldering, Rev A, Date 25 Jun 2010,
+Resistor, SMD and THT, universal, 0805 to 1206, RM10, Hand soldering, Rev A, Date 25 Jun 2010,
+0
+4
+2
+Resistors_Universal
+Resistor_SMD+THTuniversal_0805to2512_HandSoldering
+Resistor, SMD and THT, universal, 0805 to 2512, Hand soldering,
+Resistor, SMD and THT, universal, 0805 to 2512, Hand soldering,
+0
+2
+2
+Resistors_Universal
+Resistor_SMD+THTuniversal_0805to2512_RM10_HandSoldering
+Resistor, SMD and THT, universal, 0805 to 2512, RM10, Hand soldering,
+Resistor, SMD and THT, universal, 0805 to 2512, RM10, Hand soldering,
+0
+4
+2
+Resistors_Universal
+Resistor_SMD+THTuniversal_1206_RM10_HandSoldering
+Resistor, SMD+THT, universal, 1206, RM10, HandSoldering,
+Resistor, SMD+THT, universal, 1206, RM10, Hand soldering,
+0
+4
+2
+Resistors_Universal
+Resistor_SMD+THTuniversal_1206_RM10_HandSoldering_RevA_Date25Jun2010
+Resistor, SMD+THT, universal, 1206, RM10, HandSoldering, Rev A, Date 25 Jun 2010,
+Resistor, SMD+THT, universal, 1206, RM10, Hand soldering, Rev A, Date 25 Jun 2010,
+0
+4
+2
+Resistors_Universal
+Resistor_SMD+THTuniversal_2512_RM10_HandSoldering
+Resistor, SMD+THT, 2512, RM10, Hand soldering,
+Resistor, SMD+THT, 2512, RM10, Hand soldering,
+0
+4
+2
+Resistors_Universal
+Resistor_SMD+THTuniversal_2512_RM10_HandSoldering_RevA_Date25Jun2010
+Resistor, SMD+THT, 2512, RM10, Hand soldering,
+Resistor, SMD+THT, 2512, RM10, Hand soldering,
+0
+4
+2
+Resistors_Universal
+Resistor_SMDuniversal_0805to1206_HandSoldering
+Resistor, SMD, universal, 0805 to 1206, Hand soldering,
+Resistor, SMD, universal, 0805 to 1206, Hand soldering,
+0
+2
+2
+Resistors_Universal
+Resistor_SMDuniversal_0805to2512_HandSoldering
+Resistor, SMD, universal, 0805 to 2512, Hand soldering,
+Resistor, SMD, universal, 0805 to 2512, Hand soldering,
+0
+2
+2
 Rotary_Encoder
 RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm
 Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
@@ -96627,3 +96718,10 @@ Varistor VF
 0
 2
 2
+xbox_lpc
+xbox_lpc
+Through hole straight socket strip, 2x08, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
+Through hole socket strip THT 2x08 2.54mm double row
+0
+16
+16

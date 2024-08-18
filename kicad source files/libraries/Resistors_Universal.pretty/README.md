@@ -1,0 +1,1 @@
+# Resistors_Universal.pretty
