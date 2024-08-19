@@ -1,20 +1,28 @@
 # Pi Pico modchip adapter for Original Xbox
 
-Unofficial board for the original Xbox modchip "[ModXo](https://github.com/shalxmva/modxo)" by Shalx
+Currently working on support for V1 version by ['Team Resurgent'](https://github.com/Team-Resurgent/Modxo)
+See the [V0.2](https://github.com/Electrical5/Pico-ModXo/tree/V0.2) for the support of the original "[ModXo](https://github.com/shalxmva/modxo)" by Shalx
 
-![3d](https://github.com/Electrical5/Pico-ModXo/blob/main/pico-modxo-3d.png)
+TODO's:
+* running DRC and ERC to check for issues.
+* Check ground plane under Pi Pico usb port, think it needs some exclusion zones.
+* Check part numbers to create a decent bill-of-material (though not sure about which connectors to actually use?)
+* Clean up the silkscreen a bit, add some 'to Xbox front' as indication and reference to the related GitHub and ConsoleMods pages.
+* Update readme to reflect all changes.
+
+![3d](pico-modxo-3d.png)
 
 # Easy to solder
 
 All components can be soldered 'though hole' at home and the Pico/resistors also have 'surface mount' options, making it ideal for hobbyists or mass production.
 
-![2d](https://github.com/Electrical5/Pico-ModXo/blob/main/pico-modxo-2d.png)
+![2d](pico-modxo-2d.png)
 
 # Fully open source
 
 The KiCad (free application) source files (full schematics!) are included, so you can add/remove components based on your preferences.
 
-![schematics](https://github.com/Electrical5/Pico-ModXo/blob/main/schematics.png)
+![schematics](schematics.png)
 
 # SMBus
 
