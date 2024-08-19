@@ -2,7 +2,7 @@
 
 This version is based on the ['V1 version'](https://github.com/Team-Resurgent/Modxo) by Team Resurgent (including Shalx)
 
-See the [V0.2](https://github.com/Electrical5/Pico-ModXo/tree/V0.2) for the support of the original "[ModXo](https://github.com/shalxmva/modxo)" by Shalx
+See the [V0.2 release](https://github.com/Electrical5/Pico-ModXo/releases/tag/V0.2) for the support of the original "[ModXo](https://github.com/shalxmva/modxo)" by Shalx
 
 ![3d](pico-modxo-3d.png)
 
