@@ -1,6 +1,6 @@
 # Pi Pico modchip adapter for Original Xbox
 
-Currently working on support for V1 version by ['Team Resurgent'](https://github.com/Team-Resurgent/Modxo)
+Currently working on support for ['V1 version'](https://github.com/Team-Resurgent/Modxo) by Team Resurgent (including Shalx)
 
 See the [V0.2](https://github.com/Electrical5/Pico-ModXo/tree/V0.2) for the support of the original "[ModXo](https://github.com/shalxmva/modxo)" by Shalx
 
