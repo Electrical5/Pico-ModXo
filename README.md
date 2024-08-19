@@ -1,15 +1,8 @@
 # Pi Pico modchip adapter for Original Xbox
 
-Currently working on support for ['V1 version'](https://github.com/Team-Resurgent/Modxo) by Team Resurgent (including Shalx)
+This version is based on the ['V1 version'](https://github.com/Team-Resurgent/Modxo) by Team Resurgent (including Shalx)
 
 See the [V0.2](https://github.com/Electrical5/Pico-ModXo/tree/V0.2) for the support of the original "[ModXo](https://github.com/shalxmva/modxo)" by Shalx
-
-TODO's:
-* running DRC and ERC to check for issues.
-* Check ground plane under Pi Pico usb port, think it needs some exclusion zones.
-* Check part numbers to create a decent bill-of-material (though not sure about which connectors to actually use?)
-* Clean up the silkscreen a bit, add some 'to Xbox front' as indication and reference to the related GitHub and ConsoleMods pages.
-* Update readme to reflect all changes.
 
 ![3d](pico-modxo-3d.png)
 

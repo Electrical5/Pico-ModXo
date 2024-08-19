@@ -365,7 +365,7 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin bidirectional line
 				(at 6.35 8.89 180)
 				(length 3.81)
 				(name "3.3V"
@@ -527,7 +527,7 @@
 					)
 				)
 			)
-			(pin power_out line
+			(pin bidirectional line
 				(at 6.35 1.27 180)
 				(length 3.81)
 				(name "3.3V"
