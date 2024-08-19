@@ -4710,6 +4710,16 @@
 	)
 	(wire
 		(pts
+			(xy 124.46 59.69) (xy 132.08 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c09ce797-1b56-4b6b-b1b9-5da367153dbe")
+	)
+	(wire
+		(pts
 			(xy 167.64 39.37) (xy 171.45 39.37)
 		)
 		(stroke
@@ -6806,6 +6816,73 @@
 			(project ""
 				(path "/21d77f03-7f1f-46f6-89c7-87f98b707b4a"
 					(reference "R1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3.3V")
+		(at 124.46 59.69 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5e3977d0-4bd1-4eed-8404-f87dd195e4f4")
+		(property "Reference" "#PWR012"
+			(at 128.27 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3.3V"
+			(at 120.65 59.6899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 124.46 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 124.46 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+			(at 124.46 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f4ca0a64-7334-49c5-9a79-51f7562f4e3a")
+		)
+		(instances
+			(project "pico-modxo"
+				(path "/21d77f03-7f1f-46f6-89c7-87f98b707b4a"
+					(reference "#PWR012")
 					(unit 1)
 				)
 			)
