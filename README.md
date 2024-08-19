@@ -2,19 +2,21 @@
 
 Unofficial board for the original Xbox modchip "[ModXo](https://github.com/shalxmva/modxo)" by Shalx
 
-![3d](https://github.com/Electrical5/Pico-ModXo/blob/main/pico-modxo-3d.png)
+Do note that this version does not include the 3.3V to GPIO8, which is used in the newer version by Team Resurgent to deactive the modchip on 1.6 versions while the xbox is running.
+
+![3d](pico-modxo-3d.png)
 
 # Easy to solder
 
 All components can be soldered 'though hole' at home and the Pico/resistors also have 'surface mount' options, making it ideal for hobbyists or mass production.
 
-![2d](https://github.com/Electrical5/Pico-ModXo/blob/main/pico-modxo-2d.png)
+![2d](pico-modxo-2d.png)
 
 # Fully open source
 
 The KiCad (free application) source files (full schematics!) are included, so you can add/remove components based on your preferences.
 
-![schematics](https://github.com/Electrical5/Pico-ModXo/blob/main/schematics.png)
+![schematics](schematics.png)
 
 # SMBus
 
